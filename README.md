@@ -2,7 +2,7 @@
 
 
 </br></br>
-- 🔭 I’m currently studying in Ecole Polytechnique
+- 🔭 I’m currently a third year engineering student at Ecole Polytechnique
 - 📫 How to reach me: mohamed.ahmed-maloum@polytechnique.edu
 
 
