@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-‹a href-"https://www.linkedin.com/in/mohamed-ahmed-maloum-b239691ba/"›
-cimg align="left" alt="Mitul's LinkedIN" width="22px" sre="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.sve" /›
+<a href="https://www.linkedin.com/in/mohamed-ahmed-maloum-b239691ba/">
+<img align="left" alt="Mitul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
