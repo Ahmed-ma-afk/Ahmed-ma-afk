@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/mohamed-ahmed-maloum-b239691ba/">
+<img align="left" alt="Mitul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 <!--
 **Ahmed-ma-afk/Ahmed-ma-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.linkedin.com/in/mohamed-ahmed-maloum-b239691ba/">
-<img align="left" alt="Mitul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fcale82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height-"20" src-"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fcale82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fcale82350fe8e3517d3494d/topics/c/c.pne"></code>
+<code><img height="29" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fcale82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
